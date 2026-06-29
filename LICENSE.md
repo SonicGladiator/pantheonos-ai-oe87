@@ -1,4 +1,4 @@
-# 
+# VIP PantheonOS extensions. Avec analyse des sentiments et modèles d'apprentissage profond — optimisé pour des performances maximales.
 
 
 
